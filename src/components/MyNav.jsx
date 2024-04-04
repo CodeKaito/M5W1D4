@@ -14,9 +14,9 @@ export default function MyNav( {onSearch, isHomepage} ) {
       <Navbar.Brand href="#home">
             <img
               alt=""
-              src='src/img/epibooks-logo.png'
-              width="30"
-              height="30"
+              src="https://github.com/CodeKaito/M5W1D4/blob/master/src/img/epibooks-logo.png?raw=true"
+              width={30} 
+              height={30}
               className="d-inline-block align-top"
             />{' '}
             <b>Epibooks</b>
